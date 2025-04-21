@@ -107,11 +107,3 @@ Email: rukmalmadhurangadissanayaka@gmail.com.
 GitHub: [rukmalmadhurangadissanayaka@gmail.com](https://github.com/RMadhuranga)
 ```
 
-* Notes for Customization:
-1. Replace placeholder images with actual screenshots of your project
-2. Update the contact information with your real details
-3. Add a LICENSE file if you want to use a different license
-4. Include the actual database.sql file if you want to share the schema
-5. Update the project structure to match your actual file organization
-
-This README provides a professional overview of your pet store e-commerce project that will help visitors understand your work and potentially contribute to it.
