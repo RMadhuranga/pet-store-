@@ -3,7 +3,7 @@ Here's a professional README.md file for your Pet Place e-commerce project that 
 ```markdown
 # Pet Place - Online Pet Store & Veterinary Services
 
-![Pet Place Header](./assets/header.png)
+![Pet Place Header](./assets/header(2).png)
 
 A comprehensive e-commerce platform for pet products combined with veterinary services, built with PHP, HTML, CSS, and JavaScript.
 
@@ -45,7 +45,7 @@ A comprehensive e-commerce platform for pet products combined with veterinary se
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/pet-place.git
+   git clone https://github.com/RMadhuranga/pet-place.git
    ```
 2. Set up your web server (Apache/Nginx) with PHP support
 3. Import the database schema from `database.sql`
@@ -104,7 +104,7 @@ For questions or support, please contact:
 
 Your Name  
 Email: rukmalmadhurangadissanayaka@gmail.com.  
-GitHub: [@rukmalmadhurangadissanayaka@gmail.com](https://github.com/RMadhuranga)
+GitHub: [rukmalmadhurangadissanayaka@gmail.com](https://github.com/RMadhuranga)
 ```
 
 ### Notes for Customization:
