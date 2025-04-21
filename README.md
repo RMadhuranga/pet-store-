@@ -3,7 +3,7 @@ Here's a professional README.md file for your Pet Place e-commerce project that 
 ```markdown
 * Pet Place - Online Pet Store & Veterinary Services
 
-![Pet Place Header](../assets/header(2).png)
+![Pet Place Header](./assets/header(2).png)
 
 A comprehensive e-commerce platform for pet products combined with veterinary services, built with PHP, HTML, CSS, and JavaScript.
 
