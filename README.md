@@ -1,13 +1,13 @@
 Here's a professional README.md file for your Pet Place e-commerce project that you can add to your GitHub repository:
 
 ```markdown
-# Pet Place - Online Pet Store & Veterinary Services
+* Pet Place - Online Pet Store & Veterinary Services
 
-![Pet Place Header](./assets/header(2).png)
+![Pet Place Header](../assets/header(2).png)
 
 A comprehensive e-commerce platform for pet products combined with veterinary services, built with PHP, HTML, CSS, and JavaScript.
 
-## Features
+* Features
 
 - **User Authentication**: Session-based login system
 - **Product Catalog**: Dynamic product listing from database
@@ -20,7 +20,7 @@ A comprehensive e-commerce platform for pet products combined with veterinary se
   - Scroll animations (ScrollReveal)
   - Dynamic cart updates
 
-## Technologies Used
+* Technologies Used
 
 - **Frontend**:
   - HTML5, CSS3, JavaScript
@@ -32,7 +32,7 @@ A comprehensive e-commerce platform for pet products combined with veterinary se
   - PHP (with MySQL database)
   - Session management
 
-## Pages
+* Pages
 
 1. **Home Page** - Landing page with featured products and services
 2. **Product Listing** - Dynamic product grid from database
@@ -41,7 +41,7 @@ A comprehensive e-commerce platform for pet products combined with veterinary se
 5. **About Us** - Service information and team details
 6. **Contact** - Contact information and social links
 
-## Installation
+* Installation
 
 1. Clone the repository:
    ```bash
@@ -52,14 +52,14 @@ A comprehensive e-commerce platform for pet products combined with veterinary se
 4. Configure database connection in `db.php`
 5. Access the application through your local server
 
-## Database Structure
+* Database Structure
 
 The project uses MySQL with the following main tables:
 - `products` - Stores product information (name, description, price, image)
 - `users` - User authentication (not shown in current code but can be added)
 - `orders` - Order management (to be implemented)
 
-## Project Structure
+* Project Structure
 
 ```
 pet-place/
@@ -77,7 +77,7 @@ pet-place/
 └── database.sql           # Database schema
 ```
 
-## Future Enhancements
+* Future Enhancements
 
 - [ ] User registration and login system
 - [ ] Order history tracking
@@ -85,7 +85,7 @@ pet-place/
 - [ ] Admin dashboard for product management
 - [ ] Integration with payment gateways
 
-## Contributing
+* Contributing
 
 Contributions are welcome! Please follow these steps:
 1. Fork the repository
@@ -94,11 +94,11 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
+* License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
+* Contact
 
 For questions or support, please contact:
 
@@ -107,7 +107,7 @@ Email: rukmalmadhurangadissanayaka@gmail.com.
 GitHub: [rukmalmadhurangadissanayaka@gmail.com](https://github.com/RMadhuranga)
 ```
 
-### Notes for Customization:
+* Notes for Customization:
 1. Replace placeholder images with actual screenshots of your project
 2. Update the contact information with your real details
 3. Add a LICENSE file if you want to use a different license
